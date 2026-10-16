@@ -12,7 +12,7 @@ Abre `index.html` en el navegador. No necesita instalar nada.
 
 ## Equipo
 
-- (agrega tu nombre)
+- Rebecca V
 
 ## Funciones agregadas en el taller
 
