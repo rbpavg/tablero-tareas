@@ -17,3 +17,11 @@ Abre `index.html` en el navegador. No necesita instalar nada.
 ## Funciones agregadas en el taller
 
 - (se llena en la sesión 2)
+
+## Cómo usarlo
+
+1. Escribe una tarea y presiona **Agregar**.
+2. Haz clic en la tarea para marcarla como hecha.
+3. Presiona **X** para borrarla.
+
+Repositorio: [tablero-tareas](https://github.com/rbpavg/tablero-tareas)
